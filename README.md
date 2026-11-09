@@ -20,5 +20,15 @@ Open http://localhost:8080, create a Pipeline job from this repo, and click **Bu
 Check the deployed app: `docker logs myapp`
 
 ## Screenshots
-See the `screenshots/` folder.
+### Pipeline stage view
+![Stage View](screenshots/Stage-View.png)
+
+### Console output
+![Console Output](screenshots/Console-Output.png)
+
+### Auto-triggered build
+![Build History](screenshots/Build-History.png)
+
+### Deployed app
+![Docker Logs](screenshots/Docker-Logs.png)
 
